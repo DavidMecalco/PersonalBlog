@@ -1,0 +1,29 @@
+nav{
+    background: linear-gradient(220.55deg, #FFBB89 0%, #7B6AE0 100%);
+    padding: 50px;
+}
+
+#tituloPagina{
+    margin-left: 150px;
+    color: #626567;
+}
+
+#bannerPrincipla{
+    display: inline-block;
+}
+
+.iconoDavid {
+    padding: 150px;
+    display: flexbox;
+}
+
+.iconoDavid img{
+    border-radius: 50%;
+}
+
+.tituloPagina{
+    display: flexbox;
+}
+
+
+
