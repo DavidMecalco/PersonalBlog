@@ -1,29 +1,49 @@
 nav{
-    background: linear-gradient(220.55deg, #FFBB89 0%, #7B6AE0 100%);
-    padding: 50px;
+    background: linear-gradient(220.55deg, #A531DC 0%, #4300B1 100%);
 }
 
-#tituloPagina{
-    margin-left: 150px;
-    color: #626567;
-}
 
-#bannerPrincipla{
+
+.bannerPrincipal{
+    background-image: url("../img/banner.jpg");
+    background-size: cover;
+    height: 30%;
+    width: 100%;
     display: inline-block;
+    text-align: center;   
+
 }
 
 .iconoDavid {
-    padding: 150px;
-    display: flexbox;
+    background: transparent;
+    display: inline-block;
+    padding: 30px 0 ;  
 }
 
 .iconoDavid img{
     border-radius: 50%;
+    background: transparent;
+    justify-content: space-between;
 }
 
-.tituloPagina{
-    display: flexbox;
+#tituloPagina{
+    color: #ffff;
+    display: inline-block;
+    text-align: justify;
+    padding: 30px 50px;
+    justify-items: center;
 }
+
+#tituloPagina h1{
+    size: 80px;
+}
+
+article{
+    padding: 50px;
+}
+
+
+
 
 
 
